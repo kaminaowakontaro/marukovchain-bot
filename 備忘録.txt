@@ -24,5 +24,3 @@ TextTweet：GenerateTextを起動してできた文章をツイートしてく�
 ReplyTweet：GenerateTextを起動してできた文章を起動する前の1分間にリプ送った人へ送るよ！（いっぺんに送れる上限は100人）
 
 shema.sql：知らん。ありのままだからこそ美しいファイル。
-
-__pycache__：知らん。こんなんつくったっけ。
