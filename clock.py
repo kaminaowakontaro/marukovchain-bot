@@ -4,6 +4,7 @@ import os
 import TextTweet
 import GetTweet
 import ReplyTweet
+import PrepareChain
 
 # APIのトークン
 CK="ここにAPI key"
